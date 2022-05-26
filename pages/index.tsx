@@ -13,14 +13,14 @@ const Home: NextPage = () => {
 
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
         <h1 className="text-6xl font-bold">
-          Welcome to{' '}
+          welcome to{' '}
           <a className="text-blue-600" href="https://nextjs.org">
             mcrypt!
           </a>
         </h1>
 
         <p className="mt-3 text-2xl">
-          Permissionless secure messaging for the blockchain age{' '}
+          easy permissionless secure messaging for the blockchain age.{' '}
         </p>
         <code className="rounded-md bg-gray-100 p-3 font-mono text-lg">
           write, lock, share securely
@@ -33,7 +33,7 @@ const Home: NextPage = () => {
           >
             <h3 className="text-2xl font-bold">Connect Wallet &rarr;</h3>
             <p className="mt-4 text-xl">
-              Craft an encrypted message, signd with your private key. To start,
+              Craft an encrypted message, signed with your private key. To start,
               sign in with your wallet.
             </p>
           </a>
