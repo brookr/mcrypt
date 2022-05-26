@@ -20,11 +20,11 @@ const Home: NextPage = () => {
         </h1>
 
         <p className="mt-3 text-2xl">
-          Get started by editing{' '}
-          <code className="rounded-md bg-gray-100 p-3 font-mono text-lg">
-            pages/index.tsx
-          </code>
+          Permissionless secure messaging for the blockchain age{' '}
         </p>
+        <code className="rounded-md bg-gray-100 p-3 font-mono text-lg">
+          write, lock, share securely
+        </code>
 
         <div className="mt-6 flex max-w-4xl flex-wrap items-center justify-around sm:w-full">
           <a
